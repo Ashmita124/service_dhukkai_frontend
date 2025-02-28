@@ -1,8 +1,46 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Getting Started with Car Service Application
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Developed this Project using ReactJS. </br>
+
+## ▶️ [Demo](https://www.youtube.com/watch?v=bNtYqpdhYRc)
+
+## :rocket: Technologies
+
+- [React](https://reactjs.org/)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [React Hooks Form](https://react-hook-form.com/)
+- [React Router](https://reactrouter.com/web/guides/quick-start)
+- [Material-UI](https://material-ui.com/)
+- [Axios](https://github.com/axios/axios)
+- [Notistack](https://www.iamhosseindhv.com/notistack)
+
+## Run Locally
+
+- Clone the project
+
+```bash
+  git clone https://github.com/MohitMurotiya/CarServiceApplication.git
+```
+
+- Go to the project directory
+
+```bash
+  cd CarServiceApplication
+```
+
+- Install dependencies
+
+```bash
+  npm install
+```
+
+- Start the server on http://localhost:3000/
+
+```bash
+  npm start
+```
+
+<br />
